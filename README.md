@@ -1,5 +1,3 @@
-![시스템 아키텍처](https://github.com/user-attachments/assets/da701af7-f138-45a3-9128-d98064a2b876)# SKN19-3rd-3TEAM
-
 > SK네트웍스 Family AI 캠프 19기 3차 프로젝트  
 > 개발기간: 25.11.12 ~ 25.11.25 <br>
 > 주제 : LLM을 연동한 내외부 문서 기반 질의 응답 시스템
