@@ -184,7 +184,7 @@
 
 
 ### 시스템 아키텍처 구조도
-![시스템 아키텍처](https://github.com/user-attachments/assets/f289824e-6faf-4746-9926-1be7248624f4)
+![시스템 아키텍처](https://github.com/user-attachments/assets/fed65a14-a788-4452-a007-8b50b36e620d)
 
 
 
