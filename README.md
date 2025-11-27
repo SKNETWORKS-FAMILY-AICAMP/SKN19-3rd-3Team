@@ -1,4 +1,4 @@
-# SKN19-3rd-3TEAM
+![시스템 아키텍처](https://github.com/user-attachments/assets/da701af7-f138-45a3-9128-d98064a2b876)# SKN19-3rd-3TEAM
 
 > SK네트웍스 Family AI 캠프 19기 3차 프로젝트  
 > 개발기간: 25.11.12 ~ 25.11.25 <br>
@@ -184,7 +184,8 @@
 
 
 ### 시스템 아키텍처 구조도
-![시스템 아키텍처](https://github.com/user-attachments/assets/b3ac14be-ea36-44f5-9f3b-9ee8dc5c4de0)
+![시스템 아키텍처](https://github.com/user-attachments/assets/f289824e-6faf-4746-9926-1be7248624f4)
+
 
 
 
